@@ -1,4 +1,4 @@
-XC8_VERSION := 1.44
+XC8_VERSION := 1.45
 IMAGE_NAME  := xc8
 
 DOCKER_ARGS += --build-arg DEBIAN_FRONTEND=noninteractive
