@@ -1,6 +1,6 @@
-MPLABX_VERSION := 4.05
+MPLABX_VERSION := 4.15
 XC_TOOL_SUITE  := xc8
-XC_VERSION     := 1.44
+XC_VERSION     := 1.45
 PROJECT_DIR    := $(shell readlink -f ~/MPLABXProjects/)
 
 IMAGE_NAME      = mplabx
